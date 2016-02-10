@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/code4sac/meetups.png?label=ready&title=Ready)](https://waffle.io/code4sac/meetups)
 # Code for Sacramento Meetups
 This is a code-free project repository for using GitHub issues to plan and manage our meetups. You can use Waffle cards ([learn more](https://github.com/waffleio/waffle.io/blob/master/README.md)) or native [GitHub Issues](https://github.com/code4sac/meetups/issues). 
 
