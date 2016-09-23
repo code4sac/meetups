@@ -5,7 +5,7 @@
 
 * opening remarks, Code for America's Code of Conduct.  
 
-### Agenda:
+### Agenda:  
 
 * Joanne: Boostrap overview* -Announcements 
 
